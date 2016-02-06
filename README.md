@@ -1,1 +1,6 @@
-# cakephp3-core
+# codetron-cakephp3
+
+## Recipes
+
+* core
+* cms
